@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGwjYuz40ME=",
+  "success": true,
+  "projectFilePath": "/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/LP_app.csproj",
+  "expectedPackageFiles": [
+    "/Users/meganmccaw/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.0-rc.1.25451.107/microsoft.aspnetcore.app.internal.assets.10.0.0-rc.1.25451.107.nupkg.sha512"
+  ],
+  "logs": []
+}
