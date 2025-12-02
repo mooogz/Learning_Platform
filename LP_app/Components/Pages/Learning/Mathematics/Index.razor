@@ -138,18 +138,10 @@
 </div>
 
 @code {
-    private LessonsList? lessonsComponent;
-    private QuizzesList? quizzesComponent;
-
     private List<string> Tools = new()
     {
         "MATLAB", "Python", "Mathematica", "Wolfram Alpha", "R", "NumPy"
     };
-
-    protected override void OnInitialized() {
-        if (lessonsComponent != null) lessonsComponent.Lessons = new() { new() { Title = "Math Fundamentals", Description = "Overview", Duration = "2 hours", Link = "/lesson/math-intro", Topics = new() { "Basics" } } };
-        if (quizzesComponent != null) quizzesComponent.Quizzes = new() { new() { Title = "Math Quiz", Description = "Test", Questions = 15, TimeLimit = 25, Link = "/quiz/math-101" } };
-    }
 }
 
 <style>

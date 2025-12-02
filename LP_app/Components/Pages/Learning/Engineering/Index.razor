@@ -138,18 +138,10 @@
 </div>
 
 @code {
-    private LessonsList? lessonsComponent;
-    private QuizzesList? quizzesComponent;
-
     private List<string> Tools = new()
     {
         "AutoCAD", "SOLIDWORKS", "MATLAB", "Python", "ANSYS", "SAP2000"
     };
-
-    protected override void OnInitialized() {
-        if (lessonsComponent != null) lessonsComponent.Lessons = new() { new() { Title = "Engineering Basics", Description = "Overview", Duration = "2 hours", Link = "/lesson/eng-intro", Topics = new() { "Fundamentals" } } };
-        if (quizzesComponent != null) quizzesComponent.Quizzes = new() { new() { Title = "Engineering Quiz", Description = "Test", Questions = 15, TimeLimit = 25, Link = "/quiz/eng-101" } };
-    }
 }
 
 <style>

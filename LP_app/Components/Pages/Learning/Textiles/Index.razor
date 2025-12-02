@@ -138,18 +138,10 @@
 </div>
 
 @code {
-    private LessonsList? lessonsComponent;
-    private QuizzesList? quizzesComponent;
-
     private List<string> Tools = new()
     {
         "Textile CAD", "Weaving Sims", "Testing Equipment", "MATLAB", "Design Software", "Lab Tools"
     };
-
-    protected override void OnInitialized() {
-        if (lessonsComponent != null) lessonsComponent.Lessons = new() { new() { Title = "Textiles Basics", Description = "Overview", Duration = "2 hours", Link = "/lesson/textiles-intro", Topics = new() { "Fibers" } } };
-        if (quizzesComponent != null) quizzesComponent.Quizzes = new() { new() { Title = "Textiles Quiz", Description = "Test", Questions = 15, TimeLimit = 25, Link = "/quiz/textiles-101" } };
-    }
 }
 
 <style>

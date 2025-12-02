@@ -83,9 +83,9 @@
         </div>
     </section>
 
-    <LessonsList @ref="lessonsComponent" />
+    <LessonsList @ref="lessonsComponent" Lessons="lessons" />
 
-    <QuizzesList @ref="quizzesComponent" />
+    <QuizzesList @ref="quizzesComponent" Quizzes="quizzes" />
 
     <section class="tools-section">
         <h2>Tools You'll Use</h2>
@@ -166,43 +166,37 @@
         "MATLAB", "CATIA", "SolidWorks", "ANSYS", "CFX", "Simulink"
     };
 
-    protected override void OnInitialized()
+    private List<LessonsList.LessonItem> lessons = new()
     {
-        if (lessonsComponent != null)
-        {
-            lessonsComponent.Lessons = new()
-            {
-                new() { 
-                    Title = "Introduction to Aerospace", 
-                    Description = "Overview of aerospace engineering and its applications.",
-                    Duration = "2 hours",
-                    Link = "/lesson/ae-intro",
-                    Topics = new() { "Fundamentals", "History", "Applications" }
-                },
-                new() { 
-                    Title = "Aerodynamics", 
-                    Description = "Learn the principles of aerodynamics and fluid dynamics.",
-                    Duration = "4 hours",
-                    Link = "/lesson/aerodynamics",
-                    Topics = new() { "Aerodynamics", "Forces", "Lift & Drag" }
-                }
-            };
+        new LessonsList.LessonItem
+        { 
+            Title = "Introduction to Aerospace", 
+            Description = "Overview of aerospace engineering and its applications.",
+            Duration = "2 hours",
+            Link = "/lesson/ae-intro",
+            Topics = new List<string> { "Fundamentals", "History", "Applications" }
+        },
+        new LessonsList.LessonItem
+        { 
+            Title = "Aerodynamics", 
+            Description = "Learn the principles of aerodynamics and fluid dynamics.",
+            Duration = "4 hours",
+            Link = "/lesson/aerodynamics",
+            Topics = new List<string> { "Aerodynamics", "Forces", "Lift & Drag" }
         }
+    };
 
-        if (quizzesComponent != null)
-        {
-            quizzesComponent.Quizzes = new()
-            {
-                new() { 
-                    Title = "Aerodynamics Quiz",
-                    Description = "Test your aerodynamics knowledge",
-                    Questions = 15,
-                    TimeLimit = 25,
-                    Link = "/quiz/aero-101"
-                }
-            };
+    private List<QuizzesList.QuizItem> quizzes = new()
+    {
+        new QuizzesList.QuizItem
+        { 
+            Title = "Aerodynamics Quiz",
+            Description = "Test your aerodynamics knowledge",
+            Questions = 15,
+            TimeLimit = 25,
+            Link = "/quiz/aero-101"
         }
-    }
+    };
 }
 
 <style>
