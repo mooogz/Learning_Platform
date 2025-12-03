@@ -453,3 +453,4 @@
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/swsjbkaxbs-{0}-6fwsz2vw06-6fwsz2vw06.gz

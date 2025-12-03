@@ -422,3 +422,5 @@ The platform is now at a critical milestone:
 4. 🔄 Then: UI integration and advanced features [Phases 6-7(search, filtering, analytics, real-time updates)]
 
 **Recommendation**: Test all 23 endpoints via Swagger UI before proceeding to Phase 5 to ensure data flows correctly through the API layer.
+
+Run dotnet run and navigate to https://localhost:5001/swagger/index.html to interact with all 23 endpoints

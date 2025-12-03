@@ -322,8 +322,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9maWxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Research/Journals/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9SZXNlYXJjaC9Kb3VybmFscy9JbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Research/Universities/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9SZXNlYXJjaC9Vbml2ZXJzaXRpZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Research/Universities/Networks.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9SZXNlYXJjaC9Vbml2ZXJzaXRpZXMvTmV0d29ya3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/QuizzesList.razor]
