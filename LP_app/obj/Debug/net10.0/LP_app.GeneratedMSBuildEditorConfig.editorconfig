@@ -62,30 +62,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DZXJ0aWZpY2F0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Check/Auth.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGVjay9BdXRoLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Check/Fleet.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGVjay9GbGVldC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Check/Globe.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGVjay9HbG9iZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Check/Maps.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGVjay9NYXBzLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Check/Paris.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGVjay9QYXJpcy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Check/Sat.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGVjay9TYXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Enterprise/Architecture/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FbnRlcnByaXNlL0FyY2hpdGVjdHVyZS9JbmRleC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -286,6 +262,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ob3RGb3VuZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Ophelia/Fleet.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9PcGhlbGlhL0ZsZWV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Ophelia/Globe.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9PcGhlbGlhL0dsb2JlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Ophelia/Paris.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9PcGhlbGlhL1BhcmlzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Ophelia/Pipeline/Tabs/01_Enterprise-Linux/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9PcGhlbGlhL1BpcGVsaW5lL1RhYnMvMDFfRW50ZXJwcmlzZS1MaW51eC9JbmRleC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -332,6 +320,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Research/Universities/Networks.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9SZXNlYXJjaC9Vbml2ZXJzaXRpZXMvTmV0d29ya3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/Pages/Research/Universities/Networks2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9SZXNlYXJjaC9Vbml2ZXJzaXRpZXMvTmV0d29ya3MyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/Components/QuizzesList.razor]

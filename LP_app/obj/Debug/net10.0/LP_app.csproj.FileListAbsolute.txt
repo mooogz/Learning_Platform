@@ -194,7 +194,6 @@
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/scopedcss/bundle/LP_app.styles.css
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/scopedcss/projectbundle/LP_app.bundle.scp.css
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/dj9vzf1s7t-{0}-zcd2eb7xx1-zcd2eb7xx1.gz
-/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/9jr8lpkvcs-{0}-x7t7cfpcik-x7t7cfpcik.gz
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/de5jun96l8-{0}-bqjiyaj88i-bqjiyaj88i.gz
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/uw0ozgppcf-{0}-c2jlpeoesf-c2jlpeoesf.gz
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/heahf0otby-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -242,8 +241,6 @@
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/u2ljwavo4n-{0}-w97mql0d9w-w97mql0d9w.gz
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/62mnp11p9p-{0}-4n3g7fqvoz-4n3g7fqvoz.gz
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/armuwdsdi3-{0}-v6ptob665s-v6ptob665s.gz
-/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/e0ru4umo7t-{0}-rj06a7yho5-rj06a7yho5.gz
-/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/oqhzhh0lde-{0}-rj06a7yho5-rj06a7yho5.gz
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/staticwebassets.build.json
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/staticwebassets.build.json.cache
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/staticwebassets.development.json
@@ -453,4 +450,11 @@
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/swsjbkaxbs-{0}-6fwsz2vw06-6fwsz2vw06.gz
+/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/ddhk6zdr92-{0}-x7t7cfpcik-x7t7cfpcik.gz
+/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/pwvxujq5mn-{0}-6fwsz2vw06-6fwsz2vw06.gz
+/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/7hxnbw0kwr-{0}-e5oa8w7z0a-e5oa8w7z0a.gz
+/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/w1kkpg471r-{0}-vn2i7ckcp9-vn2i7ckcp9.gz
+/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/ld7phzqie7-{0}-cfyzwoxtpq-cfyzwoxtpq.gz
+/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/1er0cxw3ic-{0}-jwg3xpux5r-jwg3xpux5r.gz
+/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/e0ru4umo7t-{0}-exfrbd4bw2-exfrbd4bw2.gz
+/Users/meganmccaw/Downloads/Learning_Platform1-main-2/LP_app/obj/Debug/net10.0/compressed/oqhzhh0lde-{0}-exfrbd4bw2-exfrbd4bw2.gz
